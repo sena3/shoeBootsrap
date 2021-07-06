@@ -1,0 +1,28 @@
+steps
+1. to use bootstrap better have a div with a class container or container-fluid
+2.link your bootstrap: use cdn or local package:also add a meta for the viewpoint
+3.build out the grid
+rules
+4.add elements inside div with class col
+5.style using either or bootstrap classes or local css
+
+
+6 basic commands of a terminal
+1.pwd: print working directory
+2.ls:list
+3.cd:change directory
+     cd name of folder(used to get into a folder)
+     cd .. (used to get out of a folder)
+4.mkdir:make directory
+        mkdir name of folder
+5. touch:make files
+touch name of file
+6.cp/rm:copy and move
+
+
+github command for a new project
+1.git init: git initialize:
+2. git status: red (not ready to be taken to git hub)
+               green (files are ready to go to git hub)
+3. git add . : take all files and folders to git hub
+git add name of file/folder: takes individual file/folder to github
