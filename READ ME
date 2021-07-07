@@ -26,3 +26,13 @@ github command for a new project
                green (files are ready to go to git hub)
 3. git add . : take all files and folders to git hub
 git add name of file/folder: takes individual file/folder to github
+4.git remote add origin :copy from git hub
+5. git commit-m "write message tag here"
+6.git push -u origin master
+
+
+to update an existing project
+1. git status: check files ready for push
+2.git add .:(git add name of file/ folder)
+3. git commit -m "write your message tag for the commit"
+4. git push -u origin master
